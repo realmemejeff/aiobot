@@ -1,0 +1,1 @@
+alias updateconf='wget https://raw.githubusercontent.com/realmemejeff/aiobot/main/printer.cfg'
